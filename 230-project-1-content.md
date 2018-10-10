@@ -29,8 +29,8 @@ Flap uses a simple pixel-graphics style, with a chiptune soundtrack and FX to ma
 Each of the seagull's wings is independently controlled by a key on the keyboard. The control scheme, however, is constantly changing. Every fifteen seconds the player will be shown a new control scheme and will have one second to adapt. The player must learn everything on the fly (pun intended). Turning is achieved by flapping the wings out of sync, while straight flight is achieved by flapping in unison. There will be no tutorial, simply visual feedback regarding the starting controls.
 *****
 ### Screenshots
-![alt text]()
-![alt text]()
+![alt text](https://github.com/sl4956/IGME-230/blob/master/flightsimsealrg.png)
+![alt text](https://github.com/sl4956/IGME-230/blob/master/flightsimsealrg2.png)
 Above are mock-ups of the starting screen with the control scheme (left) and the asynchronous wing controls and a sneak peek of one of the obstacles to avoid (right)
 *****
 ### About the Developer
