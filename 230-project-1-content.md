@@ -1,5 +1,5 @@
 
-### Menu | About
+### MENU | ABOUT
 * About
 * Proposal
 * Project
@@ -9,7 +9,11 @@ Flap is a comedic game about a seagull that got drunk off of a sailor's bottle o
 Flap is being developed by Seth Lambert for IGME-230 at Rochester Institute of Technology.
 
 
-### Menu | Proposal
+### MENU | PROPOSAL
+* About
+* Proposal
+* Project
+* Documentation
 ## Flap - A Comedy Flight Simulator
 ### High Concept
 Flap is a comedy game in which the player must use constantly changing controls to fly a drunken seagull home.
@@ -37,3 +41,21 @@ Above are mock-ups of the starting screen with the control scheme (left) and the
 *****
 ### About the Developer
 Seth Lambert is a third year Game Design and Development major, and is fulfilling his immersion in film studies. His skills include gameplay programming, UI development and programming, and illustration.
+
+### MENU | PROJECT
+* About
+* Proposal
+* Project
+* Documentation
+
+### MENU| DOCUMENTATION
+* About
+* Proposal
+* Project
+* Documentation
+## Resources and Assignment Specifications
+CSS dropdown reference: [W3 Schools](https://www.w3schools.com/css/css_dropdowns.asp)
+
+Ways in which I satisfy requirements: Correct number of pictures on each page. All pages validate (HTML and CSS). Resposive design requirements are satisfied. Banner and images change depending on screen size.
+
+
